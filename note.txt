@@ -1,0 +1,17 @@
+del venv
+
+python -m venv venv
+
+cd venv/Script 
+
+activate 
+
+for linux : source venv_name/bin/activate
+
+cd ../..
+
+pip install -r req.txt
+
+python autogen_blog_pplx.py
+
+

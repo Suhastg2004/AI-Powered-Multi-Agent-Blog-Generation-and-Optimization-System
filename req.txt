@@ -1,0 +1,5 @@
+langchain==0.2.12
+langchain-community==0.2.10
+openai==1.37.0
+pexels-api-py==0.0.5
+pyautogen==0.2.34
