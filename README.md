@@ -1,0 +1,2 @@
+# AI-Powered-Multi-Agent-Blog-Generation-and-Optimization-System
+This is an AI-Powered Blog Generation System tailored for small and medium-sized businesses (SMBs) to automate and optimize their content creation for marketing purposes. The system leverages Microsoft Autogen for a multi-agent workflow, Perplexity AI for research, DALL·E for image generation, and Azure OpenAI's GPT-4o as the primary LLM.
