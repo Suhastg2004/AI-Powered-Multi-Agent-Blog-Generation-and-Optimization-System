@@ -6,10 +6,10 @@ import autogen
 from pexelsapi.pexels import Pexelsg
 from openai import OpenAI, AzureOpenAI
 
-PEXELS = "UYuHJA4Q60Y28TTaiekmHuUqy4GIXEabK3zYfE3OvUqwYoGKiucW7X2V"
-PPLX_API_KEY = "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"
+PEXELS = "your_api_key"
+PPLX_API_KEY = "pplx_api_key"
 
-AZURE_OPENAI_API_KEY = "22a749d517df4550980847f57e95921b"
+AZURE_OPENAI_API_KEY = "azure_openai_key"
 AzureGPTClient = AzureOpenAI(
         api_key = AZURE_OPENAI_API_KEY,
         api_version = "2023-09-15-preview",
