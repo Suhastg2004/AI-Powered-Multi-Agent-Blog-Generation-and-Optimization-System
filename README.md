@@ -7,7 +7,7 @@ This project provides an AI-powered solution for small and medium-sized business
 - **Automated Blog Topic Generation**: The system automatically suggests unique blog topics based on the business profile, using advanced AI models.
 - **Research Integration**: **Perplexity AI** is used for researching the suggested topics and generating relevant content.
 - **AI-Generated Content**: The **Azure OpenAI GPT-4o** LLM generates high-quality blog content from the research material.
-- **Image Generation**: The system uses **DALL·E 3** to generate relevant images based on blog keywords to accompany the content.
+- **Image Generation**: The system uses **DALLE-3** to generate relevant images based on blog keywords to accompany the content.
 - **Multi-Agent Workflow**: A custom multi-agent system powered by **Microsoft Autogen** coordinates between research, writing, and design agents to produce a comprehensive and formatted blog.
 
 ## Technologies Used
